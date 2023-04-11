@@ -3,6 +3,9 @@
 
 # Chaskiq Plugins README
 
+![miguelmichelson_Chat_icons_social_networks_clouds_illustration__6ba69978-4ae5-4144-8947-e2d4ad9de9dc](https://user-images.githubusercontent.com/11976/231269735-7997f320-4561-4050-8980-55b3346835f4.png)
+
+
 ## Introduction
 
 This README file is meant to provide guidance and information on creating and managing Chaskiq plugins. Chaskiq plugins are files located in the message_apis folder and are installed as AppPackages. These plugins enable you to extend the functionality of your Chaskiq application, and they can be developed locally or synced from the appstore.chaskiq.io.
